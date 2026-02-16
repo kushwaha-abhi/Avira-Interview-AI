@@ -1,0 +1,5 @@
+{
+  "name": "Avira Interview AI",
+  "description": "A real-time, voice-enabled AI interviewer with holographic visuals and comprehensive performance analytics.",
+  "requestFramePermissions": ["microphone"]
+}

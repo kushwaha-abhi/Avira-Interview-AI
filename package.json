@@ -1,0 +1,48 @@
+{
+  "name": "Avira-interview-ai",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth/mongodb-adapter": "^3.11.1",
+    "@google-cloud/speech": "^7.2.1",
+    "@google-cloud/text-to-speech": "^6.4.0",
+    "@google/genai": "^1.33.0",
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.4.0",
+    "@tailwindcss/postcss": "^4.1.17",
+    "@vercel/analytics": "^1.6.1",
+    "axios": "^1.13.2",
+    "formidable": "^3.5.4",
+    "lucide-react": "^0.554.0",
+    "mongoose": "^8.20.1",
+    "next": "^16.0.4",
+    "next-auth": "^4.24.13",
+    "pdf-parse": "^2.4.5",
+    "pdf-parse-fork": "^1.2.0",
+    "pdfjs-dist": "4.0.379",
+    "postcss": "^8.5.6",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.6",
+    "recharts": "^3.5.0",
+    "tailwindcss": "^4.1.17",
+    "three": "^0.181.2",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/formidable": "^3.4.6",
+    "@types/node": "^22.14.0",
+    "@types/react": "19.2.7",
+    "@vitejs/plugin-react": "^5.0.0",
+    "baseline-browser-mapping": "^2.9.6",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
